@@ -21,3 +21,4 @@ Additional Action :
 
 1. Make sure user can not input value more than 4 and less than 1 (check menu input value).
 2. For menu number 4, make sure user can not input string, and input integer less than 1
+3. Default value if user don't input menu number 1 is ''
