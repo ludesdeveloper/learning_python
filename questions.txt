@@ -15,7 +15,7 @@ When user type 2 then press enter, application will print, whatever string store
 
 When user type 3 then press enter, application will check if value of input is 'Learn Python', if it's true it will return 'Keep Learning Python', if it's false it will return 'Keep Coding'. Press enter to back to main menu.
 
-When user type 4 then press enter, application will ask user to input any integer value, then application will print variable that user type in first menu n-times (n is integer value). Press enter to back to main menu.
+When user type 4 then press enter, application will ask user to input any integer value, then application will print variable that user type in first menu n-times (n is integer value which stored in menu number 4). Press enter to back to main menu.
 
 Additional Action :
 
